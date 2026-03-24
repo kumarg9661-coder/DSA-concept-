@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
 // Utility class for logic
-class Even{
+public class Even {
     public static boolean isEven(int num) {
         return num % 2 == 0;
     }
-}
 
-// Main class (entry point)
+
+    // Main class (entry point)
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
