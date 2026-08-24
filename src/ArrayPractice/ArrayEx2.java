@@ -8,7 +8,7 @@ public class ArrayEx2 {
     }
 
     public static void main(String[] args) {
-        int marks[] = {98, 85, 78};
+        int marks[] = {99, 86, 79};
         update(marks);
 
         // print our marks
